@@ -10,6 +10,7 @@
 - 👯 I’m looking to start my professional career as a Software Engineer! 
 - 💻 I have experience working with Python, Javascript, Django, React, as well as several API's.
 - 🌱 I’m currently learning Docker
+- 🎓 I have a BS in Psychology with a minor in Sociology
 - 📫 How to reach me: crystaljobe29@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun facts about me: I have two dogs, two cats, and 8 chickens. I love the outdoors especially hiking, camping, and swimming. I've been blessed enough to live in three different countries outside the US to include South Korea, Ireland, and Australia. 
