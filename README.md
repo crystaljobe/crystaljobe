@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**crystaljobe/crystaljobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Green Simple Personal LinkedIn Banner](https://github.com/crystaljobe/crystaljobe/assets/144761681/3b28e639-bea3-4f5b-8cae-03389b2f83bb)
 
-Here are some ideas to get you started:
+## Hi there 👋 I'm Crystal. 
 
+**I'm a transitioning Full-Stack Software Engineer with a background in Operations and Program Management along with Strategic Planning and Implementation. I just recently received my Certificate of Completion from Code Platoon's Full Stack Immersive Program and am ready to begin my professional career as a Software Engineer! My passions are helping others, animals, and community improvement. **
+
+## More about me: 
 - 🔭 I'm currently working on ChangeMate, a Social Impact App that is a comprehensive platform designed for individuals who want to make a difference in their communities but struggle to find or organize initiatives. It serves as a social media platform that facilitates the discovery, joining, and organization of social impact events and campaigns. Unlike traditional volunteer portals, ChangeMate integrates advanced features such as social media sharing, event collaboration, and a gamified challenge system to motivate participation and engagement.
-- 🌱 I’m currently learning Docker. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to start my professional career as a Software Engineer! 
+- 💻 I have experience working with Python, Javascript, Django, React, as well as several API's.
+- 🌱 I’m currently learning Docker
+- 📫 How to reach me: crystaljobe29@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun facts about me: I have two dogs, two cats, and 8 chickens. I love the outdoors especially hiking, camping, and swimming. I've been blessed enough to live in three different countries outside the US to include South Korea, Ireland, and Australia. 
+
