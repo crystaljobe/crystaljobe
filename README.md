@@ -3,7 +3,7 @@
 
 ## Hi there 👋 I'm Crystal. 
 
-** I'm a Military Spouse transitioning into Software Engineering. I have a background in Operations and Program Management along with Strategic Planning and Implementation. I just recently received my Certificate of Completion from Code Platoon's Full Stack Immersive Program and am ready to begin my professional career as a Software Engineer! **
+** I'm a Military Spouse transitioning into Software Engineering. I have a background in Operations and Program Management along with Strategic Planning and Implementation. I made this transition after I started working with Microsoft Power Apps in my last position as Director of Programs to help streamline our tracking and referral processes in an effort to decrease my team's workload. This opened up the world of coding to me which I fell in love with and haven't looked back. I just recently received my Certificate of Completion from Code Platoon's Full Stack Immersive Program and am ready to begin my professional career as a Software Engineer where I'm hoping to combine my passions of making a difference in the world around me with coding! **
 
 ## More about me: 
 - 🔭 I'm currently working on ChangeMate, a Social Impact App that is a comprehensive platform designed for individuals who want to make a difference in their communities but struggle to find or organize initiatives. It serves as a social media platform that facilitates the discovery, joining, and organization of social impact events and campaigns. Unlike traditional volunteer portals, ChangeMate integrates advanced features such as social media sharing, event collaboration, and a gamified challenge system to motivate participation and engagement.
